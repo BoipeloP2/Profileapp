@@ -758,7 +758,19 @@ input,textarea,select{
   font-weight: 600;
 }
 
+.blog .blog-item-inner .blog-info .blog-link{
+  font-size: 16px;
+  line-height: 25px;
+  color: #504e70;
+  font-weight: 400;
+  text-transform: capitalize;
+  margin-bottom: 10px;
 
+}
+.blog .blog-item-inner .blog-info .blog-link a{
+  text-decoration: none;
+  font-weight: 600;
+}
 /* End : Blog Section */
 
 
